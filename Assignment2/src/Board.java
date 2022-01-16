@@ -1,6 +1,7 @@
+//This is the second change for part 3
 import java.awt.*;
 
-//This is the test for Part 3 the first time change
+
 public class Board {
 	// grid line width
 	public static final int GRID_WIDTH = 8;
